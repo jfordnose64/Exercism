@@ -1,0 +1,3 @@
+/Users/jacksonford/Exercism/csharp/two-fer/obj/Debug/netcoreapp3.0/TwoFer.csprojAssemblyReference.cache
+/Users/jacksonford/Exercism/csharp/two-fer/obj/Debug/netcoreapp3.0/TwoFer.AssemblyInfoInputs.cache
+/Users/jacksonford/Exercism/csharp/two-fer/obj/Debug/netcoreapp3.0/TwoFer.AssemblyInfo.cs
