@@ -6,6 +6,10 @@ public static class TwoFer
   // can be called both without any arguments and also by passing one string argument.
   public static string Speak()
   {
-    return "Hello, World!";
+    return $"One for you, one for me.";
+  }
+  public static string Speak(string name)
+  {
+    return $"One for {name}, one for me.";
   }
 }
