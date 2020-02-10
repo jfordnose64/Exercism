@@ -1,0 +1,3 @@
+/Users/jacksonford/Exercism/csharp/grade-school/obj/Debug/netcoreapp3.0/GradeSchool.csprojAssemblyReference.cache
+/Users/jacksonford/Exercism/csharp/grade-school/obj/Debug/netcoreapp3.0/GradeSchool.AssemblyInfoInputs.cache
+/Users/jacksonford/Exercism/csharp/grade-school/obj/Debug/netcoreapp3.0/GradeSchool.AssemblyInfo.cs
