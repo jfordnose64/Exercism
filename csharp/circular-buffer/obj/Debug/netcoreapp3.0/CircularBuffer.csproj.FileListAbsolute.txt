@@ -1,0 +1,3 @@
+/Users/jacksonford/Exercism/csharp/circular-buffer/obj/Debug/netcoreapp3.0/CircularBuffer.csprojAssemblyReference.cache
+/Users/jacksonford/Exercism/csharp/circular-buffer/obj/Debug/netcoreapp3.0/CircularBuffer.AssemblyInfoInputs.cache
+/Users/jacksonford/Exercism/csharp/circular-buffer/obj/Debug/netcoreapp3.0/CircularBuffer.AssemblyInfo.cs
