@@ -1,0 +1,3 @@
+/Users/jacksonford/Exercism/csharp/clock/obj/Debug/netcoreapp3.0/Clock.csprojAssemblyReference.cache
+/Users/jacksonford/Exercism/csharp/clock/obj/Debug/netcoreapp3.0/Clock.AssemblyInfoInputs.cache
+/Users/jacksonford/Exercism/csharp/clock/obj/Debug/netcoreapp3.0/Clock.AssemblyInfo.cs
