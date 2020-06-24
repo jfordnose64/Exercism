@@ -11,7 +11,7 @@ namespace GradeSchool
 
     public Dictionary<int, List<string>> Roster { get; private set; }
 
-    public void Add(string student, int grade)
+    public void Add(string teacher, int grade)
     {
       if (Roster.ContainsKey(grade))
       {
